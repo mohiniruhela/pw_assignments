@@ -1,15 +1,11 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Introduction to  Machine Learning-1
 
 # # Q1: Explain the following with an example:
 # 1) Artificial Intelligence
-# 2) Machine Learnin,
+# 2) Machine Learning
 # 3) Deep Learning
 # 
 # Artificial Intelligence:
-
 ->In my understanding Artificial Intelligence is used in order to create Smarter Applications that comprises of 4 main pillers in order to create them:
   1.Data
   2.Training 
@@ -21,7 +17,6 @@
 >It is an umbrella term which encompassing diverse approaches like machine learning, deep learning, natural language processing, computer vision, and robotics.  
 --------------------------------------------------------------------------------------------------------------------------------  
 # Machine Learning
-
 ->It is a wide field that provide stats tool to analyze, visualize,predictive model,forecasting.
 ->It consist a wide range of algorithms eg: Linear and Logistic Regression,SVM and Decision Tree,KNN and CPA and many more all     the algorithm have their specific purpose and use.
 
@@ -39,17 +34,14 @@
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Deep Learning:
-
 ->It basically is the subset of Machine Learing.
 ->It Mimic the Human Brain.
 ->Uses the Multi Layered Neural Network.
 ->Eg: Object Detection Image Recognition ,CHATBOT Recommendation System.
-
-
+  
 So as per my knowledge the basic term AI,ML,Deep Learning i have illustrate above.
-      
-  
-  
+   
+    
 # # Q2: What is supervised learning? List some examples of supervised learning. 
 -> It is a part of Machine Learning in which the output feature of the dataset is known and the modles are tarining upon the training datasets.
 -> It is basically divided into 2 parts:
@@ -58,7 +50,6 @@ So as per my knowledge the basic term AI,ML,Deep Learning i have illustrate abov
       1.2) Regression: here the output will be continuous in nature.
       
 ->Examples:
-
    1) Classification:
     Let we have the following dataset:
     No. of hour played : 8,7,6,5,4
@@ -92,6 +83,7 @@ So as per my knowledge the basic term AI,ML,Deep Learning i have illustrate abov
   2.It can also used in the image detection where a rich dataset of some animals are to be provided to the model and then the model in itself find thefeatures and based upon the features it identify images.
   
   3.In my opinion we can include Snapchat here like the way this application detect the facial nature of human and based upon that it applies the filters.
+
 # # Q4: What is the difference between AI, ML, DL, and DS?
 # AI: Ai simply is the smarter application that is created upon the basis of the understanding of ML,DL,DS.Applications that can perform its own tasks without any human intervension.
 
@@ -100,6 +92,7 @@ So as per my knowledge the basic term AI,ML,Deep Learning i have illustrate abov
 #DL: Subset of ML,Its is something that mimics the Human Behavious which uses Multilayered NeuralNetwork that incorporate intelligence into machines.
 
 #DS :Ds Uses Statistics,Linear Algebra,Calculus,Probablity in order to analyse and predict the behaviour of the model.
+
 # # Q5: What are the main differences between supervised, unsupervised, and semi-supervised learning?
 Main Differences are:
     Supervised ML:
@@ -121,8 +114,7 @@ Main Differences are:
 ->It involves dividing a dataset into three subsets:
     Training, Testing, and Validation.
     
-  Now let's se them one by one:
-  
+  Now let's se them one by one:  
   #Training:
   -Here we will train our model through training dataset.
   #Validation:
@@ -132,6 +124,8 @@ Main Differences are:
   -Model is finally is tested inorder to check its functionality.
   
 Note: Here Model only have the info of trainng & Validation Dataset ,Testing Dataset is always hidden.  
+
+          
 # # Q7: How can unsupervised learning be used in anomaly detection?
 Anomaly detection is one of the main application of Unsupervised learning which is basically used to identifying normal patterns within a data sample and then detecting outliers based on the natural characteristics of the data set itself.
 
@@ -141,6 +135,7 @@ Fraud detection: Identifying unusual financial transactions or credit card activ
 Network intrusion detection: Spotting suspicious network traffic patterns indicative of cyberattacks.
 Machine condition monitoring: Predicting equipment failures based on sensor data deviations from normal operating conditions.
 Quality control in manufacturing: Detecting defective products during production based on anomalies in sensor readings.
+
 # # Q8: List down some commonly used supervised learning algorithms and unsupervised learning algorithms.
 # Supervise Learning Algorithm:
 -> Decision Tree:
@@ -158,123 +153,4 @@ Quality control in manufacturing: Detecting defective products during production
     Grouping data points into K clusters by iteratively minimizing distances to cluster centers.
 ->Hierarchical Clustering:
     Progressively merging or splitting data points to build a tree-like structure of clusters.    
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
